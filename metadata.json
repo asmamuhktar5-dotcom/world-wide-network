@@ -1,0 +1,6 @@
+{
+  "name": "World Wide Network",
+  "description": "Global Advertising Agency & Media Network delivering breakthrough creative, performance campaigns, programmatic media, and worldwide brand strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
